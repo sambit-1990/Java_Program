@@ -1,6 +1,6 @@
 //6. Write a function to print your name and call the function from main method
 
-package JavaBasics;
+package javaBasics;
 
 public class Q6 {
 

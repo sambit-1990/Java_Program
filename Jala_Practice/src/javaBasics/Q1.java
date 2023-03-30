@@ -1,6 +1,6 @@
 // 1. How to create a class, object, method and its signature
 
-package JavaBasics;
+package javaBasics;
 
 public class Q1 {
 	int a, b;

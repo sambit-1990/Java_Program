@@ -1,6 +1,6 @@
 //3. Write a program for a Single line comment, multi-line and documentation comments
 
-package JavaBasics;
+package javaBasics;
 
 public class Q3 {
 

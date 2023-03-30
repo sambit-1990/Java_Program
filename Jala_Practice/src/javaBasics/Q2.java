@@ -1,6 +1,6 @@
 //2. Write a program to print your name.
 
-package JavaBasics;
+package javaBasics;
 
 public class Q2 {
 
